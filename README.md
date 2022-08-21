@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⭐ Looking forward to start my professional career as a Software Engineer
+🤓 Currently learning Full Stack Web Development
+❄️ Pursuing B.Tech in Computer Science Engineering from Lovely Professional University, Phagwara
+🚀 Love to talk about Research and Innovation!
